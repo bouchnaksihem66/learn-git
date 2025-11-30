@@ -10,7 +10,7 @@
 4. Initialiser un dépôt git vide
 
 ![task4](/img/img4.png)
-5. Ajouter third.txt à la staging area
+5. Ajouter third.txt à la staging area .
 
 ![task5](/img/img5.png)
 6. Commit avec le message "adding third.txt"
